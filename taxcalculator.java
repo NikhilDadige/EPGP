@@ -1,3 +1,4 @@
+//This is a sample java program
 import java.util.Scanner;
 class taxcalculator {
     
